@@ -35,13 +35,13 @@ h2 {
     color: #cd5033;
 }
 
+a:hover {
+	color: #cd5033;
+}
+
 a {
 	color: #f0f0f0;
 	text-decoration: none;
-}
-
-a:hover {
-	color: #cd5033;
 }
 
 .container > header {
